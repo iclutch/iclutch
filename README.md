@@ -1,6 +1,6 @@
 <a href="https://discord.com/users/338718840873811979"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/1104143151091961856?bg=00000000" /></a>
 
-<a href="https://discord.gg/jmtQPbRTCn"><img src="https://media.discordapp.net/attachments/1114284993645121599/1114303993410240622/Full-Logo.png?width=539&height=539" height="140" /></a>
+<a href="https://discord.gg/jmtQPbRTCn"><img src="https://media.discordapp.net/attachments/1114284993645121599/1123090668747759686/enterprize-roleplay.png?width=460&height=147" height="140" /></a>
 <details>
   <summary><b>📋 About</b></summary>
 
